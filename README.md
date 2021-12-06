@@ -1,3 +1,4 @@
+Jostin Alvarado - Taís Balcazar
 # Trabajo Final del Primer Bimestre
 
 ## Actividades
